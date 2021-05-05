@@ -5,7 +5,7 @@
 
 ### Course Description
 
-TODO
+An introduction to representations and algorithms for artificial intelligence.  Topics covered include: constraint satisfaction in discrete and continuous problems, logical representation and inference, Monte Carlo tree search, probabilistic graphical models and inference, planning in discrete and continuous deterministic and probabilistic models, basic decentralized and game-theoretic models.
 
 ### Meeting Time
 
