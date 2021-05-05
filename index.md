@@ -1,4 +1,4 @@
-# 6.S058 Representation, inference and reasoning in AI
+# Representation, inference and reasoning in AI
 
 * Can substitute for 6.034 in EECS 6.3 curriculum and is on EECS list
 * Meets with 16.420 (G), which counts as EECS AUS or AAGS
