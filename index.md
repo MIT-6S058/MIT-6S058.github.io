@@ -1,11 +1,17 @@
 # Representation, inference and reasoning in AI
 
-* Can substitute for 6.034 in EECS 6.3 curriculum and is on EECS list
-* Meets with 16.420 (G), which counts as EECS AUS or AAGS
-
 ### Course Description
 
-An introduction to representations and algorithms for artificial intelligence.  Topics covered include: constraint satisfaction in discrete and continuous problems, logical representation and inference, Monte Carlo tree search, probabilistic graphical models and inference, planning in discrete and continuous deterministic and probabilistic models, basic decentralized and game-theoretic models.
+An introduction to representations and algorithms for artificial intelligence.  Topics covered include: constraint satisfaction in discrete and continuous problems, logical representation and inference, Monte Carlo tree search, probabilistic graphical models and inference, planning in discrete and continuous deterministic and probabilistic models including MDPs and POMDPs, basic decentralized and game-theoretic models. 
+
+### Role in EECS curriculum
+
+* Pilot version of subject designed for proposed AI+D major
+* This subject plus 6.036 constitute a deeper exposure to AI topics than 6.034
+* Can *substitute* for 6.034 as a header in 6-2 and 6-3
+* Counts as an EECS subject for 6-1, 6-2, and 6-3, even if you have already taken 6.034
+* Counts as a CS12 subject for 6-2 students
+* Meets with 16.420 (G), which counts as EECS AUS or AAGS in the AI concentration
 
 ### Meeting Time
 
