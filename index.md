@@ -7,7 +7,7 @@ An introduction to representations and algorithms for artificial intelligence.  
 ### Role in EECS curriculum
 
 * Pilot version of subject designed for proposed AI+D major
-* Can *substitute* for 6.034 as a header in 6-2 and 6-3
+* Can *substitute* for 6.034 as a header in 6-2 and 6-3 (requires petition but guaranteed to be accepted)
 * Counts as an EECS subject for 6-1, 6-2, and 6-3, even if you have already taken 6.034
 * Counts as a CS12 subject for 6-2 students
 * Meets with 16.420 (G), which counts as EECS AUS or AAGS in the AI concentration
