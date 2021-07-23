@@ -2,7 +2,7 @@
 
 ### Course Description
 
-An introduction to representations and algorithms for artificial intelligence.  Topics covered include: constraint satisfaction in discrete and continuous problems, logical representation and inference, Monte Carlo tree search, probabilistic graphical models and inference, planning in discrete and continuous deterministic and probabilistic models including MDPs and POMDPs, basic decentralized and game-theoretic models. 
+An introduction to representations and algorithms for artificial intelligence.  Topics covered include: constraint satisfaction in discrete and continuous problems, logical representation and inference, Monte Carlo tree search, probabilistic graphical models and inference, planning in discrete and continuous deterministic and probabilistic models including MDPs and POMDPs. 
 
 ### Syllabus Overview
 
