@@ -33,10 +33,10 @@ Here is a non-exhaustive and provisional set of topics that we plan to cover.
 * Connections to reinforcement learning
 
 **Unit 5: Planning with observation uncertainty**
-** Nondeterministic planning (AO search)
-** Partially observed MDPs (POMDPs)
-** Sampling-based planners (POMCP, DESPOT)
-** Determinization
+* Nondeterministic planning (AO search)
+* Partially observed MDPs (POMDPs)
+* Sampling-based planners (POMCP, DESPOT)
+* Determinization
 
 
 ### Role in EECS curriculum
