@@ -4,6 +4,41 @@
 
 An introduction to representations and algorithms for artificial intelligence.  Topics covered include: constraint satisfaction in discrete and continuous problems, logical representation and inference, Monte Carlo tree search, probabilistic graphical models and inference, planning in discrete and continuous deterministic and probabilistic models including MDPs and POMDPs, basic decentralized and game-theoretic models. 
 
+### Syllabus Overview
+
+Here is a non-exhaustive and provisional set of topics that we plan to cover.
+
+**Unit 1: Reasoning with certainty**
+* Propositional logic
+* Constraint satisfaction problems
+* First-order logic
+* SAT solvers
+
+**Unit 2: Reasoning with uncertainty**
+* Bayesian networks
+* Markov random fields, factor graphs
+* Sum-product (belief propagation)
+* MCMC, sampling-based inference
+
+**Unit 3: Planning with certainty**
+* Heuristic search (A\*, GBFS)
+* Continuous planning (RRT, PRM)
+* PDDL planning
+* Delete-relaxation heuristics
+
+**Unit 4: Planning with transition uncertainty**
+* Markov decision processes (MDPs)
+* Value iteration, policy iteration
+* Online and heuristic planning (LAO\*, RTDP)
+* Connections to reinforcement learning
+
+**Unit 5: Planning with observation uncertainty**
+** Nondeterministic planning (AO search)
+** Partially observed MDPs (POMDPs)
+** Sampling-based planners (POMCP, DESPOT)
+** Determinization
+
+
 ### Role in EECS curriculum
 
 * Pilot version of subject designed for proposed AI+D major
