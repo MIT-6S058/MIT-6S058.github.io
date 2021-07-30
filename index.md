@@ -38,7 +38,6 @@ Here is a non-exhaustive and provisional set of topics that we plan to cover.
 * Sampling-based planners (POMCP, DESPOT)
 * Determinization
 
-
 ### Role in EECS curriculum
 
 * Pilot version of subject designed for proposed AI+D major
@@ -47,6 +46,11 @@ Here is a non-exhaustive and provisional set of topics that we plan to cover.
 * Counts as a CS12 subject for 6-2 students
 * Meets with 16.420 (G), which counts as EECS AUS or AAGS in the AI concentration
 * The *combination of this subject and 6.036* will cover almost all of the topics in 6.034 in more technical depth
+
+### Role in AeroAstro curriculum
+
+* 16.420 can be used to satisfy part of the graduate field evaluation in the Autonomy course of study.
+* Petitions for 16.420 to be considered as a PAS for the undergraduate degree will be considered on a case-by-case basis. 
 
 ### Meeting Time
 
