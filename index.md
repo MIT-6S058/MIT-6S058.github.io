@@ -6,13 +6,13 @@ An introduction to representations and algorithms for artificial intelligence.  
 
 ### Catsoop
 
-This landing page is now mostly deprecated. All course information, calendars, homeworks will be administered through our (catsoop website)[https://sicp-s4.mit.edu/fall21/].
+This landing page is now mostly deprecated. All course information, calendars, homeworks will be administered through our [catsoop website](https://sicp-s4.mit.edu/fall21/).
 
-In particular, for up to date course policies, please see (the catsoop info page)[https://sicp-s4.mit.edu/fall21/info].
+In particular, for up to date course policies, please see [the catsoop info page](https://sicp-s4.mit.edu/fall21/info).
 
 ### Piazza
 
-Sign up for our Piazza course (here)[https://piazza.com/class/ksix8ktaqzs1pp].
+Sign up for our Piazza course [here](https://piazza.com/class/ksix8ktaqzs1pp).
 
 ### Contacts
 - Professor Leslie Kaebling (lpk@csail.mit.edu)
